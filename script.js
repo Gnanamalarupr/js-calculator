@@ -1,6 +1,7 @@
-
 const display = document.querySelector('.display span');
-const buttons = document.querySelectorAll('.calc');
+const buttons = document.querySelectorAll('.calcc, .calc');
+
+
 
 
 buttons.forEach(button => {
@@ -35,3 +36,4 @@ buttons.forEach(button => {
     }
   });
 });
+
