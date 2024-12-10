@@ -50,7 +50,8 @@ h1 {
     padding: 10px;
 }
 
-button {
+
+.calc{
     font-size: 1.2rem;
     padding: 20px 0;
     border: none;
@@ -58,7 +59,20 @@ button {
     cursor: pointer;
     border-radius: 1px;
 }
+.calcc{
+    font-size: 1.2rem;
+    padding: 20px 0;
+    border: none;
+    background-color:gray;
+    cursor: pointer;
+    border-radius: 1px;
+}
 
 button:hover {
     background-color: rgb(50, 48, 48);
 }
+
+
+
+
+
